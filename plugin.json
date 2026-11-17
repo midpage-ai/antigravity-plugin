@@ -1,0 +1,28 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "midpage",
+  "displayName": "Midpage Legal Research",
+  "description": "Research US case law, statutes, and regulations, plus live dockets from federal and state courts. A Midpage account is required.",
+  "version": "1.0.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Find recent federal cases on trade secret misappropriation.",
+    "Can a California tenant recover damages under a late delivery provision in a commercial lease?"
+  ],
+  "author": {
+    "name": "Midpage",
+    "url": "https://www.midpage.ai"
+  },
+  "homepage": "https://www.midpage.ai",
+  "repository": "https://github.com/midpage-ai/antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "legal-research",
+    "case-law",
+    "statutes",
+    "regulations",
+    "dockets",
+    "litigation"
+  ]
+}
